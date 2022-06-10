@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "migps-230df": {
+      "hosting": {
+        "app": [
+          "migps-230df"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "migps-230df"
+  }
+}
